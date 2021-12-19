@@ -1,0 +1,50 @@
+img {
+  border-radius: 50%;
+}
+ body h1{
+		color:yellow;
+		font-size: 55;
+		font-family: times new roman;
+  }
+body section h1{
+	color : yellow;
+	font-size: 50;
+} 
+marquee{
+	color:white;
+	background-color:green;
+	padding:10px;
+	font-size:25;
+}
+bgroup a{
+	display:block;    
+    width:17%;
+    float:left;
+	padding:19px;
+	background-color:#80ffaa;
+    color:#ff1a75;
+	border-radius:50%;
+	text-decoration:none;
+}
+bgroup a:hover{
+	background-color:purple;
+	color:yellow;
+}
+marquee1{
+	padding:10px;
+}
+igroup img {
+  border-radius: 0%;
+  margin:30px;
+  
+}
+body{
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+lgroup a{
+	float:left;
+}
+	
+	
